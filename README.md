@@ -11,8 +11,7 @@
  📆 2021 - 2026\
  📍 **Federal University of Uberlândia** - Uberlândia-MG/Brazil
 
-## 👨🏽‍💻 Experiences/Technologies
- - Treading the web development.  
+## 👨🏽‍💻 Experiences/Technologies 
  - Data Science : 
 <img align="center" alt="HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
 <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg"> |
