@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+<h1 align="center">
+  <a href="https://github.com/xR4F43L">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=2000&color=F7F7F7&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello!;I'm+Rafael+Godoi." alt="Typing SVG" />
+  </a>
+</h1>
 <!--
 **xR4F43L/xR4F43L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
